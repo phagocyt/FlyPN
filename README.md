@@ -13,4 +13,4 @@ This repository contains the computational pipeline and analysis scripts for the
 
 ## Data Availability
 Due to file size limits, the large raw count matrices and `.h5ad` objects are not hosted in this repository. 
-* The raw scRNAseq data and reference data can be downloaded from at GEO under accession number [GSE318611] and [GSE161228].
+* The raw scRNAseq data and reference data can be downloaded from GEO under accession number [GSE318611] and [GSE161228].
